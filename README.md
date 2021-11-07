@@ -3,6 +3,7 @@
 ## 🚀 My Projects
 - [Terminal Hacker](https://github.com/Stormeal/Terminal_Hacker)
 - [A Simple Game](https://github.com/Stormeal/A-Simple-Game)
+- [Monster Slayer - in VueJS](https://github.com/Stormeal/MonsterSlayer/tree/master)
 
 <!--
 **Stormeal/Stormeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
