@@ -12,6 +12,8 @@
 - [Healms 5e](https://github.com/Stormeal/Healms-5e)
 - [Project Boost](https://github.com/Stormeal/Project_Boost)
 - [Alt til Hygge](https://github.com/Stormeal/AltTilHygge-front)
+- [DatingApp](https://github.com/Stormeal/DatingApp)
+- [Knitli](https://github.com/Stormeal/Knitli)
 <!--
 **Stormeal/Stormeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
