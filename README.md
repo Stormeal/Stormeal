@@ -1,6 +1,6 @@
 ![githubreadmebanner](https://github.com/Stormeal/Stormeal/blob/main/img/cover.png?raw=true)
 ### Hi, I'm Alex Storm 👋
-![codewars-rating](https://www.codewars.com/users/Stormeal/badges/large)
+[![codewars-rating](https://www.codewars.com/users/Stormeal/badges/large)](https://www.codewars.com/users/Stormeal)
 
 ## 🚀 My Projects
 - [Terminal Hacker](https://github.com/Stormeal/Terminal_Hacker)
