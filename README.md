@@ -9,9 +9,9 @@
 - [Nano Finans](https://github.com/Stormeal/Nanofinans) ![image](https://user-images.githubusercontent.com/32855858/175351251-430bbad5-d887-45c4-9ad0-8bf4fd828b94.png)
 
 ## 🚧 Work in Progress 🚧
-- [Healms 5e](https://github.com/Stormeal/Healms-5e) ![image](https://user-images.githubusercontent.com/32855858/175351260-5cb6d8b1-b0fb-426e-85f2-6b6ba3aef27f.png)
+- [Healms 5e](https://github.com/Stormeal/Healms-5e) ![image](https://user-images.githubusercontent.com/32855858/175351260-5cb6d8b1-b0fb-426e-85f2-6b6ba3aef27f.png)![image](https://user-images.githubusercontent.com/32855858/175351877-0cf7c008-91e9-48b5-89f8-f7edc1e37753.png)
 - [Project Boost](https://github.com/Stormeal/Project_Boost) ![image](https://user-images.githubusercontent.com/32855858/175350894-c664ae22-7d57-4beb-8646-920f27e9d6b7.png)
-- [Alt til Hygge](https://github.com/Stormeal/AltTilHygge-front) ![image](https://user-images.githubusercontent.com/32855858/175351269-029ef37a-082c-4284-9f70-2a7633243add.png)
+- [Alt til Hygge](https://github.com/Stormeal/AltTilHygge-front) ![image](https://user-images.githubusercontent.com/32855858/175351269-029ef37a-082c-4284-9f70-2a7633243add.png)![image](https://user-images.githubusercontent.com/32855858/175351850-f7de9b42-0206-4eb5-87d9-fd8efd104518.png)
 - [DatingApp](https://github.com/Stormeal/DatingApp) ![image](https://user-images.githubusercontent.com/32855858/175351208-2651fe5f-c642-45fd-8bec-123587a08b81.png)
 - [Knitli](https://github.com/Stormeal/Knitli) ![image](https://user-images.githubusercontent.com/32855858/175351286-e31dda21-41ba-4534-a1b4-f182cb527ff8.png)
 ![image](https://user-images.githubusercontent.com/32855858/175351354-689dfe4e-9de0-485c-b23f-e6935e576925.png)
